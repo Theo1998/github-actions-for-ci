@@ -1,1 +1,2 @@
 name: My awesome PR team
+on: pull_request_review
